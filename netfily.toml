@@ -1,7 +1,0 @@
-[build]
-  publish = "Desafio1/Script HTML"  # Substitua pela pasta onde seus arquivos de build estão localizados
-
-[[redirects]]
-  from = "/*"
-  to = "/Desafio1/Script HTML/index.html"
-  status = 200
