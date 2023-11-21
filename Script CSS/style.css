@@ -5,7 +5,7 @@
 }
 
 #MenuSuperior{
-    background-image:url(../imgens/backgroundmenusuperior.svg);
+    background-image: url(../imgens/backgroundmenusuperior.svg);
     width:1440px ;
     height:475px ;
     display: flex;
